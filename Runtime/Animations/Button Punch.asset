@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e115c58e05243d782f244128cc4c296, type: 3}
+  m_Name: Button Punch
+  m_EditorClassIdentifier: 
+  clickScale: 1.1
+  hoverScale: 1.05
+  defaultScale: 1
+  clickDuration: 0.1
+  hoverDuration: 0.2
+  clickEase: 22
+  hoverEase: 35

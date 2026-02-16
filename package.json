@@ -1,0 +1,28 @@
+{
+  "name": "com.serginian.ui",
+  "version": "1.0.0",
+  "displayName": "serginian.UI",
+  "description": "A comprehensive UI framework for Unity featuring animated views, modular button system with composable behaviours, window management via Addressables, and Coordinator-based navigation. Build polished, scalable interfaces with proven architectural patterns.",
+  "unity": "6000.0",
+  "keywords": [
+    "ui",
+    "framework",
+    "navigation",
+    "buttons",
+    "windows",
+    "coordinator",
+    "animation",
+    "views"
+  ],
+  "author": {
+    "name": "serginian",
+    "url": "https://www.serginian.com"
+  },
+  "dependencies": {
+    "com.unity.addressables": "2.8.1"
+  },
+  "documentationUrl": "https://github.com/serginian/serginian.UI/blob/main/README.md",
+  "changelogUrl": "https://github.com/serginian/serginian.UI/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/serginian/serginian.UI/blob/main/LICENSE.md",
+  "type": "library"
+}
