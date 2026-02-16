@@ -2,7 +2,7 @@
 
 **The Swiss Army Knife for Unity UI Development**
 
-serginian.UI is a comprehensive, production-ready UI framework that provides everything you need to build polished, scalable interfaces for Unity games of any size. Like a Swiss Army knife, it combines essential tools—animated views, intelligent button systems, window management, and navigation patterns—into one cohesive, well-architected solution.
+serginian.UI is a comprehensive, production-ready UI framework that provides everything you need to build polished, scalable interfaces for Unity games of any size. Like a Swiss Army knife, it combines essential tools—animated views, intelligent button systems, window management, and navigation patterns into one cohesive, well-architected solution.
 
 ## Philosophy
 
